@@ -1,6 +1,19 @@
+body {
+  background: url(..img/)
+}
+
 .header {
   text-align: center;
 }
+
+.header .container img {
+  #border: 40px solid ##000099;#
+}
+
+.projects p {
+  font-size:  15px
+}
+
 .aboutme p {
   font-size: 20px;
 }
