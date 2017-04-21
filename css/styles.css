@@ -9,6 +9,10 @@ body {
   text-shadow: black 0.3em 0.3em 0.3em;
 }
 
+#soon {
+  margin-bottom:2em;
+}
+
 a:link {
   font-weight: bold;
   color: #B2150C;
@@ -19,11 +23,13 @@ a:visited {
 }
 
 a:hover {
-  background-color: #0059b3;
+  background-color: rgba(0,89,179,0.5);
+  border-radius: 3px;
 }
 
 a:active {
-  background-color: #004d99;
+  background-color: rgba(0,77,153,0.5);
+  border-radius: 3px;
 }
 
 .jumbotron {
