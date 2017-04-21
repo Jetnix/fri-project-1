@@ -1,5 +1,42 @@
 body {
-  background: url("..img/norway.jpg");
+  margin-bottom: 0px;
+  background-image: url(../img/fields_norway.jpg);
+  background-position: 0% 25%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color: white;
+  text-shadow: black 0.3em 0.3em 0.3em;
+}
+
+a:link {
+  font-weight: bold;
+  color: #B2150C;
+}
+
+a:visited {
+  color: #33cc33;
+}
+
+a:hover {
+  background-color: #0059b3;
+}
+
+a:active {
+  background-color: #004d99;
+}
+
+.jumbotron {
+    margin-bottom: 0px;
+    background-image: url(../img/rnm_banner.jpg);
+    background-position: 0% 25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    text-shadow: black 0.3em 0.3em 0.3em;
+}
+.well{
+background-color: rgba(0,102,204,0.5);
 }
 
 .header {
@@ -28,6 +65,9 @@ body {
   border-radius: 10px;
 }
 
+.aboutme p {
+  margin-bottom: 1.3em;
+}
 .aboutme p img {
   float: left;
   max-width: 160px;
