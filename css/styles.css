@@ -9,8 +9,22 @@ body {
   text-shadow: black 0.3em 0.3em 0.3em;
 }
 
+.name {
+  background-color: rgba(0, 0, 0, .8);
+  border-radius: 140px;
+  margin-left: 250px;
+  margin-right: 250px;
+}
+
+.name2 {
+  background-color: rgba(0, 0, 0, .8);
+  border-radius: 140px;
+  margin-left: 380px;
+  margin-right: 380px;
+}
+
 #soon {
-  margin-bottom:2em;
+  margin-bottom: 2em;
 }
 
 .projects a:link {
