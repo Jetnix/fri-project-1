@@ -10,13 +10,7 @@ _A portfolio I quickly put together to summarize who Chase Grijalva is and share
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
-
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
+_Visit http://jetnix.github.io/portfolio1_
 
 ## Known Bugs
 
@@ -28,10 +22,10 @@ _If you find any errors/problems with the page, contact me @chasepgrijalva@gmail
 
 ## Technologies Used
 
-_Atom
-Bootstrap
-HTML
-CSS_
+_Atom_
+_Bootstrap_
+_HTML_
+_CSS_
 
 ### License
 
